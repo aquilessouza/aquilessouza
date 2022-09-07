@@ -61,7 +61,7 @@
   <img src="https://img.icons8.com/fluency/48/000000/node-js.png" />
 </span>
 <span>
-  <img src="https://img.icons8.com/fluency/50/000000/mysql.png" />
+  <img src="https://img.icons8.com/fluency/50/000000/mysql-logo.png" />
 </span>
 <span>
   <img src="https://img.icons8.com/external-tal-revivo-color-tal-revivo/48/000000/external-mongodb-a-cross-platform-document-oriented-database-program-logo-color-tal-revivo.png" />
