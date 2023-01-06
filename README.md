@@ -1,19 +1,9 @@
 <div align="right" > 
-   <picture>
-      <source media="(prefers-color-scheme: dark)" srcset="https://user-images.githubusercontent.com/83843770/187056064-d39f52b2-f495-44d0-9845-df310166dde4.gif">
-      <source media="(prefers-color-scheme: light)" srcset="https://user-images.githubusercontent.com/83843770/187056064-d39f52b2-f495-44d0-9845-df310166dde4.gif">
-      <img align="right" alt="GIF" src="https://user-images.githubusercontent.com/83843770/187056064-d39f52b2-f495-44d0-9845-df310166dde4.gif"  width="70"/>
-  </picture>  
 </div>
 <h2>Olá...:wave:!</h2>
 <hr>
 <div>
 <div align="right" > 
-   <picture>
-      <source media="(prefers-color-scheme: dark)" srcset="https://user-images.githubusercontent.com/83843770/187015421-73aa9cbf-a533-454a-ae75-04c0945d413a.gif">
-      <source media="(prefers-color-scheme: light)" srcset="https://user-images.githubusercontent.com/83843770/187015421-73aa9cbf-a533-454a-ae75-04c0945d413a.gif">
-      <img align="right" alt="GIF" src="https://user-images.githubusercontent.com/83843770/187015421-73aa9cbf-a533-454a-ae75-04c0945d413a.gif"  width="120"/>
-  </picture>  
 </div>
 <ul style="list-style-type:none;">
   <li>:man_technologist: Cursei Desenvolvimento de Web na Trybe;</li>
