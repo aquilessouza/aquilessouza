@@ -64,7 +64,7 @@
 <h3 align="center">:mailbox_with_mail: Contacte-me :mailbox_with_mail:</h3>
 </p>
 <div align="center">
-<a href="https://www.linkedin.com/in/aquilessd">
+<a href="https://www.linkedin.com/in/aquilessouza">
 <img alt="Linkedin" src="https://img.shields.io/badge/linkedin-0077B5?logo=linkedin&logoColor=white&style=for-the-badge"/>
 </a>
 <a href="https://mailto:aquilesdant@gmail.com">
