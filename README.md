@@ -17,7 +17,7 @@
   <img height="180em" src="https://github-readme-stats.vercel.app/api/?username=aquilessouza&theme=tokyonight&show_icons=true"/> <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=aquilessouza&theme=tokyonight&layout=compact&langs_count=8&hide=HCL"/>
 </a>
 </p>
-<h3 align="center">Stacks:bookmark:</h3>
+<h3 align="center">Stacks :bookmark:</h3>
 </p>
 
 <div align="center">
