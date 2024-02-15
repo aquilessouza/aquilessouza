@@ -4,9 +4,9 @@
 <div>
 <div align="right" > 
 </div>
-<ul style="list-style-type:none;">
-  <li>:man_technologist: Desenvolvedor Web;</li>
-</ul>
+<ol style="list-style-type:none;">
+  <li>:man_technologist: Desenvolvedor Web...</li>
+</ol>
 </div>
 <hr>
 </p>
@@ -17,7 +17,7 @@
   <img height="180em" src="https://github-readme-stats.vercel.app/api/?username=aquilessouza&theme=tokyonight&show_icons=true"/> <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=aquilessouza&theme=tokyonight&layout=compact&langs_count=8&hide=HCL"/>
 </a>
 </p>
-<h3 align="center">:bookmark:Stacks:bookmark:</h3>
+<h3 align="center">Stacks:bookmark:</h3>
 </p>
 
 <div align="center">
@@ -57,7 +57,7 @@
 </span>
 </div>
 <hr>
-<h3 align="center">:mailbox_with_mail: Contacte-me :mailbox_with_mail:</h3>
+<h3 align="center">Contato :mailbox_with_mail:</h3>
 </p>
 <div align="center">
 <a href="https://www.linkedin.com/in/aquilessouza">
