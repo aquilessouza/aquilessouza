@@ -1,15 +1,11 @@
 <div align="right" > 
 </div>
-<h2>Olá...:wave:!</h2>
 <hr>
 <div>
 <div align="right" > 
 </div>
 <ul style="list-style-type:none;">
-  <li>:man_technologist: Cursei Desenvolvimento de Web na Trybe;</li>
-  <li>:office: Moro atualmente em Salvador-BA;</li>
-  <li>:floppy_disk: Estou perseguindo conhecimento para evoluir na minha carreira de desenvolvedor;</li>
-  <li>:briefcase: Procurando uma oportunidade de demonstrar meus conhecimentos e me desenvolver como programador;</li>
+  <li>:man_technologist: Desenvolvedor Web;</li>
 </ul>
 </div>
 <hr>
