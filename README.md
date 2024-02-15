@@ -4,9 +4,6 @@
 <div>
 <div align="right" > 
 </div>
-<ol style="list-style-type:none;">
-  <li>:man_technologist: Desenvolvedor Web...</li>
-</ol>
 </div>
 <hr>
 </p>
